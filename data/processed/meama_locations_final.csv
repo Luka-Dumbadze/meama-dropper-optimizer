@@ -1,0 +1,175 @@
+name,type,city,district,address_clean,latitude,longitude,hours,geocode_status
+მეამას სივრცე • თბილისი,Space,Tbilisi,Mtatsminda/Krtsanisi,აღმაშენებლის გამზირი მე-16 კმ. (თბილისი მოლი),41.6934591,44.8014495,სამუშაო საათები: 10:00 - 22:00,city_only
+მეამას სივრცე • თბილისი,Space,Tbilisi,Mtatsminda/Krtsanisi,პეტრე ქავთარაძის N1 (სითი მოლი),41.6934591,44.8014495,სამუშაო საათები: 10:00-22:00,city_only
+მეამას სივრცე • თბილისი,Space,Tbilisi,Mtatsminda/Krtsanisi,ალ.თვალჭრელიძის  N2 (ისთ ფოინთი),41.6934591,44.8014495,სამუშაო საათები: 10:00-22:00,city_only
+მეამა ქოლექთი • თბილისი,Collect,Tbilisi,Saburtalo,აკაკი ბელიაშვილის N1,41.7862863,44.7797599,ღიაა 22:00 სთ_მდე,success
+მეამა ქოლექთი • თბილისი,Collect,Tbilisi,Didube,ირაკლი აბაშიძის 21/23,41.7079357,44.7629754,ღიაა 22:00 სთ_მდე,success
+მეამა ქოლექთი  •  თბილისი,Collect,Tbilisi,Mtatsminda/Krtsanisi,ალ.თვარჭრელიძის N2 (ისთ ფოინთი),41.6934591,44.8014495,ღიაა 22:00 სთ_მდე,city_only
+მეამა ქოლექთი •  თბილისი,Collect,Tbilisi,Didube,კუს ტბა,41.7003914,44.7544551,ღიაა 12:00-19:00 სთ_მდე,success
+მეამა ქოლექთი • რუსთავი,Collect,Rustavi,Rustavi,მერაბ კოსტავას N14,41.5422714,45.0135078,ღიაა 21:00 სთ_მდე,success
+მეამა ქოლექთი • თბილისი,Collect,Tbilisi,Mtatsminda/Krtsanisi,ანა პოლიტკოვსკაიას N1  (შენი სახლი ჯიქიაზე),41.6934591,44.8014495,ღიაა 22:00 სთ_მდე,city_only
+მეამა ქოლექთი • თბილისი,Collect,Tbilisi,Chughureti/Central,ზვიად გამსახურდიას სანაპირო N108,41.7105245,44.7890832,ღიაა 24/7,success
+მეამა ქოლექთი • თავისუფალი უნივერსიტეტი,Collect,Tbilisi,Saburtalo,დავით აღმაშენებლის N240,41.8058782,44.7682722,ღიაა 20:00 სთ_მდე,success
+მეამა ქოლექთი • თბილისი,Collect,Tbilisi,Didube,ზაქარია ფალიაშვილის N36,41.709319,44.7602375,ღიაა 22:00 სთ_მდე,success
+მეამა ქოლექთი  • თბილისი,Collect,Tbilisi,Mtatsminda/Krtsanisi,ირაკლი აბაშიძის N 65-67,41.6934591,44.8014495,ღიაა 22:00 სთ_მდე,city_only
+მეამა ქოლექთი • თბილისი,Collect,Tbilisi,Mtatsminda/Krtsanisi,გივი კარტოზიას N8 (მ2-ის ეზოში),41.6934591,44.8014495,ღიაა 22:00 სთ_მდე,city_only
+მეამა ქოლექთ • თბილისი,Collect,Tbilisi,Mtatsminda/Krtsanisi,ბახტრიონის  N1 (ბუკიას ბაღი),41.6934591,44.8014495,ღიაა 22:00 სთ_მდე,city_only
+მეამა ქოლექთი • ბათუმი,Collect,Batumi,Batumi,მემედ აბაშიძის N62,41.6509502,41.6360085,ღიაა 22:00 სთ_მდე,city_only
+მეამა ქოლექთი • კლდიაშვილი,Collect,Tbilisi,Didube,კლდიაშვილის ქუჩა#3,41.7053194,44.7698466,ღიაა 22:30 სთ_მდე,success
+მეამა ქოლექთი • თბილისი,Collect,Tbilisi,Saburtalo,დავით აღმაშენებლის N12,41.7836546,44.7689875,ღიაა 24/7,success
+მეამა ქოლექთი • ჩიტაია,Collect,Tbilisi,Chughureti/Central,ჩიტაიას 39 ა,41.7162209,44.8025925,ღიაა 22:00 სთ_მდე,success
+მეამა ქოლექთი • მარჯანიშვილი,Collect,Tbilisi,Chughureti/Central,მარჯანიშვილის 33,41.7104003,44.7998134,ღიაა 22:30 სთ_მდე,success
+მეამა ქოლექთი • მელიქიშვილი,Collect,Tbilisi,Mtatsminda/Krtsanisi,მელიქიშვილის 11,41.6976382,44.8668478,ღიაა 22:30 სთ_მდე,success
+მეამა ქოლექთი • ნატახტარი,Collect,Natakhtari,Natakhtari,"ნატახტარი, kfc-სთან",41.9211953,44.7299276,ღიაა 21:00 სთ_მდე,city_only
+მეამა ქოლექთი • თბილისი,Collect,Tbilisi,Vake,ლისის ტბა,41.7439039,44.7346048,ღიაა 22:00 სთ_მდე,success
+მეამა ქოლექთი • რუსთავი,Collect,Rustavi,Rustavi,"რუსთავი, კოსტავას 20",41.5466778,45.014959,ღიაა 00:00 სთ_მდე,city_only
+მეამა ქოლექთი • ყაზბეგი,Collect,Tbilisi,Mtatsminda/Krtsanisi,ალ.ყაზბეგის 41,41.6934591,44.8014495,ღიაა 21:00 სთ_მდე,city_only
+მეამა ქოლექთი • თელავი,Collect,Telavi,Telavi,"თელავი, ნადიკვარის ქუჩა 16 ა",41.9197221,45.4703169,ღიაა 21:00 სთ_მდე,city_only
+მეამა ქოლექთი • გორი,Collect,Gori,Gori,"გორი, ამილახვარია ქ. #1",41.9818469,44.1117811,ღიაა 21:00 სთ_მდე,city_only
+მეამა ქოლექთი • თბილისი,Collect,Tbilisi,Chughureti/Central,დედაენის ბაღი,41.7006436,44.8045466,ღიაა 22:00 სთ_მდე,success
+მეამა ქოლექთი • ნაფარეული,Collect,Tbilisi,Didube,ნაფარეულის ქუჩა 4,41.7088744,44.7771165,ღიაა 21:30 სთ_მდე,success
+მეამა ქოლექთი• ქუთაისი,Collect,Kutaisi,Kutaisi,"ქუთაისი, თამარ მეფის 37",42.2596791,42.6633738,ღიაა 23:00 სთ_მდე,city_only
+მეამა ქოლექთი • ქუთაისი მოლი,Collect,Kutaisi,Kutaisi,"ქუთაისი, ჟ.შარტავას 2",42.2596791,42.6633738,ღიაა 21:00 სთ_მდე,city_only
+მეამა ქოლექთი • KIU,Collect,Kutaisi,Kutaisi,მეამა ქოლექთი • ქუთაისი მოლი,42.2596791,42.6633738,ღიაა 18:00 სთ_მდე,city_only
+მეამა ქოლექთი • ფოთი,Collect,Poti,Poti,დავით აღმაშენებლის №9-ში,42.141614,41.6748028,ღიაა 23:00 სთ-მდე,city_only
+მეამა ქოლექთი • ლილო,Collect,Tbilisi,Mtatsminda/Krtsanisi,კახეთის გზატკეცილი N 271ბ,41.6934591,44.8014495,ღიაა 21:00 სთ-მდე,city_only
+მეამა ქოლექთი • ვაზისუბანი,Collect,Tbilisi,Mtatsminda/Krtsanisi,"ვაზისუბანი I მიკრო, II კორპუსის მიმდებარედ",41.6934591,44.8014495,ღიაა 00:00 სთ-მდე,city_only
+მეამა ქოლექთი • ჭოველიძე,Collect,Tbilisi,Chughureti/Central,თამარ ჭოველიძის 11,41.7054483,44.7866534,ღიაა 21:00 სთ-მდე,success
+მეამა ქოლექთი • მცხეთა,Collect,Mtskheta,Mtskheta,"მცხეთა, მირიან მეფის ქუჩა",41.846295,44.7195591,ღიაა 19:00 სთ-მდე,city_only
+PSP Insurance,Dropper,Tbilisi,Mtatsminda/Krtsanisi,აღმაშენებელის 148/3,41.6668686,44.7516706,,success
+onairentertainment,Dropper,Tbilisi,Saburtalo,გურამიშვილის გამზირი 158,41.7818083,44.7962883,,success
+TBC-CHavchavadze,Dropper,Tbilisi,Saburtalo,თორნიკე ერისთავის 8,41.7481074,44.7802791,,success
+Credo Bank 2,Dropper,Tbilisi,Chughureti/Central,თაბუკაშვილის 27,41.7018489,44.7969008,,success
+BOG (I. Gagarini Str.),Dropper,Tbilisi,Saburtalo,გაგარინის 29ა,41.7357541,44.7703922,,success
+Credo Bank (Tabukashvili St),Dropper,Tbilisi,Chughureti/Central,თაბუკაშვილის 27,41.7018489,44.7969008,,success
+GIPA,Dropper,Tbilisi,Chughureti/Central,ბროსეს 2,41.7025434,44.797673,,success
+TBC Bank (Politkovskaya str.),Dropper,Tbilisi,Didube,პოლიტკოვსკაიას 14,41.7200333,44.7111134,,success
+REDISONI,Dropper,Tbilisi,Chughureti/Central,რესპუბლიკის მოედანი 1,41.7039218,44.7935691,,success
+Brand Shop City Mall,Dropper,Tbilisi,Didube,ქავთარაძის 1,41.7213308,44.7225831,,success
+Opera,Dropper,Rustavi,Rustavi,რუსთაველის 25,41.5514747,45.0163705,,success
+Reiman-1,Dropper,Tbilisi,Didube,სანდრო ეულის 7,41.7236913,44.7173223,,success
+Supreme Court of Georgia,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ზუბალაშვილების 32,41.6993474,44.7944031,,success
+Municipal Fund of Georgia,Dropper,Tbilisi,Chughureti/Central,აღმაშენებლის 150,41.7172755,44.791353,,success
+OPPA ( Kazbegi Ave),Dropper,Tbilisi,Didube,ყაზბეგის 15,41.7263364,44.7632127,,success
+GEORGIAN PARLIAMENT,Dropper,Rustavi,Rustavi,რუსთაველის 8,41.545073,45.0116867,,success
+Inova,Dropper,Tbilisi,Didube,სანდრო ეულის 7,41.7236913,44.7173223,,success
+tbc abashidze,Dropper,Tbilisi,Didube,აბაშიძის 21 ა,41.7077381,44.7674979,,success
+Social Agency,Dropper,Tbilisi,Chughureti/Central,ჯავახიშვილის 51,41.7092609,44.8021443,,success
+Aversi Pharma (kazbegi),Dropper,Tbilisi,Didube,ყაზბეგის 16,41.7249138,44.762618,,success
+Safety Academia,Dropper,Tbilisi,Didube,პოლიტკოვსკაიას 14,41.7200333,44.7111134,,success
+SILK ROAD BANK,Dropper,Tbilisi,Chughureti/Central,ზაარბრიუკენის მოედანი 2,41.7024181,44.804827,,success
+TBC insurance,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ალ. ყაზბეგის 28 ა,41.6934591,44.8014495,,city_only
+TBC Bank 3 (Ateni St.),Dropper,Tbilisi,Didube,ატენის 2,41.7100012,44.7722788,,success
+tegeta toiota,Dropper,Tbilisi,Didube,უნივერსიტეტის ქუჩა 6,41.7178607,44.7365471,,success
+bog-11,Dropper,Tbilisi,Gldani/Nadzaladevi,გაზაფხულის ქუჩა,41.7780119,44.8608664,,success
+TBILISI-ENERGY,Dropper,Tbilisi,Didube,მიცკევიჩის 18ა,41.7242165,44.7670644,,success
+tbc agmashenebeli 2,Dropper,Tbilisi,Mtatsminda/Krtsanisi,აღმაშენებლის გამზ 61,41.6934591,44.8014495,,city_only
+Tbc marjanishvili,Dropper,Tbilisi,Chughureti/Central,მარჯანიშვილის 16,41.7093693,44.7959468,,success
+Unison,Dropper,Tbilisi,Didube,გამრეკელის 19,41.725642,44.7684125,,success
+Tbc leasing (maserati),Dropper,Tbilisi,Mtatsminda/Krtsanisi,დ. აღმაშენებელის ხეივანი 0131,41.6934591,44.8014495,,city_only
+btu,Dropper,Tbilisi,Didube,ჭავჭავაძის 82,41.7067316,44.7382045,,success
+Aversi-Rational,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ჭირნახულის ქუჩა 14,41.6934591,44.8014495,,city_only
+United Global Technology,Dropper,Tbilisi,Didube,ჭავჭავაძის 17ა,41.709993,44.7711988,,success
+MTA,Dropper,Tbilisi,Didube,კოსტავას 70,41.7204329,44.777382,,success
+York,Dropper,Tbilisi,Chughureti/Central,ალექსიძის 12,41.7171586,44.7853415,,success
+Jerarsi Clinic,Dropper,Tbilisi,Gldani/Nadzaladevi,მუხიანის 2ა,41.780495,44.8474726,,success
+jordanias klinika,Dropper,Tbilisi,Didube,ერმილე ბედიას 33,41.7262752,44.7189019,,success
+Geo-Railway,Dropper,Tbilisi,Chughureti/Central,თამარ მეფის 15,41.719094,44.7942399,,success
+Imedi TV (Lubliana St),Dropper,Tbilisi,Mtatsminda/Krtsanisi,ლუბლიანას 5 (7 პავილიონი),41.6934591,44.8014495,,city_only
+GD-M,Dropper,Tbilisi,Chughureti/Central,მდივანის 3ა,41.7073777,45.0132536,,success
+Georgian-Dutch Hospital,Dropper,Tbilisi,Gldani/Nadzaladevi,გობრონიძის 27,41.7825644,44.8262392,,success
+Terabank,Dropper,Tbilisi,Mtatsminda/Krtsanisi,წამებულის 3,41.691485,44.815209,,success
+SAMSHENEBLO KOMPANIA-JEARSI,Dropper,Tbilisi,Saburtalo,ფეიქრების 14ბ,41.7770501,44.7910578,,success
+New Vision University Hospital,Dropper,Tbilisi,Saburtalo,ბოხუას 9,41.7803214,44.7695008,,success
+Meama East Point,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ისთ ფოინთის სივრცე,41.6934591,44.8014495,,city_only
+Georgian National Bank,Dropper,Tbilisi,Mtatsminda/Krtsanisi,გივი ამილახვრის 2,41.6934591,44.8014495,,city_only
+National Bank of Georgia (gulua),Dropper,Tbilisi,Saburtalo,ვაზიანი,41.7566737,44.7862642,,success
+TBC-Railway station,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ცენტრალური რკინიგზის სადგური,41.6934591,44.8014495,,city_only
+TBC mini gldani,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ალექსანდრე გობრონიძის 1/6,41.6934591,44.8014495,,city_only
+Basisbank,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ქეთევან დედოფლის 1,41.691655,44.8147772,,success
+Prosecutor General ( 1 sartuli),Dropper,Tbilisi,Mtatsminda/Krtsanisi,გორგასლის 24,41.6767296,44.8273894,,success
+Imedi TV 2,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ლიბლიანის 2 (4 პავილიონი),41.6934591,44.8014495,,city_only
+Vake Plaza,Dropper,Tbilisi,Didube,ილია ჭავჭავაძის 72ა,41.7110926,44.7550613,,success
+my.gov.ge,Dropper,Tbilisi,Mtatsminda/Krtsanisi,გორგასლის 22,41.6778639,44.8265845,,success
+Brand Shop Tbilisi Mall,Dropper,Tbilisi,Mtatsminda/Krtsanisi,აღმაშენებლის ხეივანი მე-16 კმ.,41.6934591,44.8014495,,city_only
+Agricultural University of Georgia,Dropper,Tbilisi,Saburtalo,აღმაშენებლის ხეივანი 240,41.7836546,44.7689875,,success
+lokomotivi ragby,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ბელიაშვილის პირველი ჩიხი ბაბილოს გვერდით,41.6934591,44.8014495,,city_only
+BOG 1 (I. Gagarini Str.),Dropper,Tbilisi,Saburtalo,გაგარინის 29ა,41.7357541,44.7703922,,success
+TBC-Gamrekeli,Dropper,Tbilisi,Didube,გამრეკელის 2,41.7213444,44.7700588,,success
+MINISTRY OF JUSTICE,Dropper,Tbilisi,Mtatsminda/Krtsanisi,გორგასლის 24ა,41.67727,44.8267922,,success
+Betlive wereteli,Dropper,Tbilisi,Saburtalo,წერეთლის 141ა,41.7473725,44.7780768,,success
+TBC-Wereteli,Dropper,Tbilisi,Saburtalo,წერეთლის 73ა,41.7360863,44.782848,,success
+tbc leasing 3,Dropper,Tbilisi,Didube,ჭავჭავაძის 76,41.7112119,44.7525907,,success
+epizodi mini,Dropper,Tbilisi,Saburtalo,პეკინის 41,41.730688,44.7679481,,success
+betlive mini 1,Dropper,Tbilisi,Isani/Samgori,წერეთლის ქუჩა 123,41.7331425,44.9629496,,success
+samto kimia,Dropper,Tbilisi,Saburtalo,წერეთლის გამზირი 142,41.7504527,44.7763387,,success
+Tbilisi Green School,Dropper,Tbilisi,Chughureti/Central,ხუდადოვის 1,41.72431,44.802781,,success
+BOG 3 (I. Gagarini Str.),Dropper,Tbilisi,Saburtalo,გაგარინის 29ა,41.7357541,44.7703922,,success
+TBC dadiani,Dropper,Tbilisi,Chughureti/Central,ცოტნე დადიანის ქუჩა 103-109,41.7292194,44.7984515,,success
+Prosecutor,Dropper,Tbilisi,Mtatsminda/Krtsanisi,აღმაშენებლის ხეივანი მე-12 კმ.,41.6934591,44.8014495,,city_only
+advokatta asociacia,Dropper,Tbilisi,Mtatsminda/Krtsanisi,თინათინ ვირსალაძის პირველი ჩიხი #1,41.6934591,44.8014495,,city_only
+PayBox,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ქსნის ქუჩა 36,41.6934591,44.8014495,,city_only
+Terabank 2,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ვირსალაძის 5,41.6426785,44.8942282,,success
+Caucasus Medical Centre,Dropper,Tbilisi,Didube,ქავთარაძის 23,41.7219636,44.7314567,,success
+Tbilisi Botanical Garden,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ბოტანიკურის 1,41.6857658,44.8093155,,success
+Millennium School,Dropper,Tbilisi,Vake,ფერმწერთა 109,41.7414498,44.7223259,,success
+IT Academy Step,Dropper,Tbilisi,Didube,ყაზბეგის 34/34ბ,41.7229733,44.7401342,,success
+BOG 5 (Zhiuli Shartava St),Dropper,Tbilisi,Mtatsminda/Krtsanisi,ვირსალაძის 5,41.6426785,44.8942282,,success
+ENERGO PRO GEORGIA,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ზ.ანჯაფარიძის 19,41.6934591,44.8014495,,city_only
+Khmaladze Architects (Sandro Euli Str),Dropper,Tbilisi,Didube,სანდრო ეულის 7,41.7236913,44.7173223,,success
+Dento club,Dropper,Tbilisi,Didube,ყაზბეგის 14ა,41.7254036,44.7617318,,success
+Bank Of Georgia - Lisi,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ლისის ტბის მ/ტ.(წრიულთნ),41.6934591,44.8014495,,city_only
+Lomisi,Dropper,Tbilisi,Chughureti/Central,ბიძინა კვერნაძის 10,41.720355,44.7820922,,success
+Tbilisi Green School Saburtalo,Dropper,Tbilisi,Didube,ბესარიონ ჟღენტის 37,41.7297387,44.7272712,,success
+operation technical department of mia,Dropper,Tbilisi,Didube,ქავთარაძის 5ა,41.7213553,44.7305469,,success
+National Probation Agency,Dropper,Tbilisi,Vake,ყაზბეგის 42/42ა,41.8253373,44.7528358,,success
+TBC-Kazbegi,Dropper,Tbilisi,Didube,ყაზბეგის 12,41.7255708,44.7637247,,success
+BOG 7(Gagarini 29),Dropper,Tbilisi,Saburtalo,გაგარინის 29,41.7351516,44.7701096,,success
+TBC-Vaja-fshavela,Dropper,Tbilisi,Didube,ვაჟა-ფშაველას 49,41.7266071,44.7384284,,success
+BOG 8,Dropper,Tbilisi,Didube,ვაჟა ფშაველას 76,41.7234783,44.731682,,success
+Reiman-2,Dropper,Tbilisi,Didube,სანდრო ეულის 7,41.7236913,44.7173223,,success
+Alte University,Dropper,Tbilisi,Didube,უნივერსიტეტის 2,41.7180343,44.721944,,success
+co-working radius,Dropper,Tbilisi,Saburtalo,დიდუბე პლაზა წერეთელი,41.738473,44.7804596,,success
+Sulxan saba,Dropper,Tbilisi,Mtatsminda/Krtsanisi,კ.ქუთათელაძის 3,41.6934591,44.8014495,,city_only
+wkalburtis akademia,Dropper,Tbilisi,Didube,პოლიტკოვსკაიას ქუჩა 30,41.7200665,44.7080382,,success
+Bravo Records,Dropper,Tbilisi,Chughureti/Central,კოსტავას 68/2,41.7109541,44.783958,,success
+BOG Bakhtrioni,Dropper,Tbilisi,Didube,ბახტრიონის 22,41.7200934,44.7657356,,success
+Bank of Georgia iTower,Dropper,Tbilisi,Saburtalo,გაგარინის 29,41.7351516,44.7701096,,success
+TBILISI-ENERGY 1,Dropper,Tbilisi,Didube,მიცკევიჩის 18ა,41.7242165,44.7670644,,success
+BOG_9,Dropper,Tbilisi,Didube,მიხეილ ბურძგლა 56,41.7231348,44.7612676,,success
+Rev-Administration,Dropper,Tbilisi,Chughureti/Central,ალექსიძის 1,41.7172225,44.7814241,,success
+tbc chavchavadze,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ჭავჭავაძის 2,41.6871065,44.7754164,,success
+bog-10,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ბიძინა კვერნაძე,41.6881245,44.8106036,,success
+palitra media 2,Dropper,Tbilisi,Didube,იოსებიძის 49,41.7253135,44.7732015,,success
+Revenue-Service-Airport,Dropper,Tbilisi,Mtatsminda/Krtsanisi,აეროპორტთან (ლასარე),41.6934591,44.8014495,,city_only
+TBC-Isani,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ქ.წამებულის 67,41.6934591,44.8014495,,city_only
+tbc chavchavadze,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ჭავჭავაძის 29,41.6424924,44.9184067,,success
+Prosecutor General ( 4 sartuli),Dropper,Tbilisi,Mtatsminda/Krtsanisi,გორგასლის 24,41.6767296,44.8273894,,success
+TBC-Rustavi,Dropper,Rustavi,Rustavi,ქ.რუსთავი მეგობრობის 14,41.5466778,45.014959,,city_only
+TBC-Ortachala,Dropper,Tbilisi,Mtatsminda/Krtsanisi,გორგასლის 41,41.6811177,44.823741,,success
+NAPR HQ1 (Gorgasali Str),Dropper,Tbilisi,Mtatsminda/Krtsanisi,გორგასლის 22,41.6778639,44.8265845,,success
+Bokhua,Dropper,Tbilisi,Saburtalo,ჩაჩავას 1,41.7752799,44.7763794,,success
+NAPR HQ2 (Gorgasali Str),Dropper,Tbilisi,Mtatsminda/Krtsanisi,გორგასლის 22,41.6778639,44.8265845,,success
+Pineo,Dropper,Tbilisi,Mtatsminda/Krtsanisi,გორგასლის 93,41.6720667,44.8339618,,success
+TBC-Leonidze,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ლეონიძის 2,41.6927828,44.8009077,,success
+TBC-Mtawminda,Dropper,Tbilisi,Mtatsminda/Krtsanisi,თვისუფლების მოედანი (გუდიაშვილის 7),41.6934591,44.8014495,,city_only
+SkyTel,Dropper,Tbilisi,Saburtalo,გურამიშვილის 23ა,41.7657787,44.7911865,,success
+National Bank of Georgia,Dropper,Tbilisi,Mtatsminda/Krtsanisi,სანაპიროს 2,41.6976527,44.8063195,,success
+Ministry of Economy and Sustainable Development,Dropper,Tbilisi,Mtatsminda/Krtsanisi,სანაპიროს 2,41.6976527,44.8063195,,success
+Dental mitskhevichi/ HBI-Dentinmplant,Dropper,Tbilisi,Didube,ადამ მიცკევიჩის 20,41.7241629,44.7650317,,success
+Palitra Media (T. Iosebidze Str.),Dropper,Tbilisi,Didube,იოსებიძის 49,41.7253135,44.7732015,,success
+CHACHAVA CLINIC,Dropper,Tbilisi,Chughureti/Central,კოსტავას 38,41.7081913,44.7850721,,success
+Silknet (gotua),Dropper,Tbilisi,Chughureti/Central,ჰეიდარ ალიევის სანაპირო 7,41.7152967,44.7876912,,success
+Betlive Varketili,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ვარკეთილის მეტროსთან,41.6934591,44.8014495,,city_only
+bog pushkini,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ალექსანდრე პუშნიკის 3,41.6934591,44.8014495,,city_only
+betlive gldani 3,Dropper,Tbilisi,Gldani/Nadzaladevi,ომარ ხიზანიშვილის 13,41.8101599,44.843347,,success
+Pharagraph Bog Bank,Dropper,Tbilisi,Mtatsminda/Krtsanisi,თავისუფლების მოედანი 7,41.6938718,44.8013715,,success
+LTD MARADONA,Dropper,Tbilisi,Mtatsminda/Krtsanisi,კონსტიტუციის 4,41.6934591,44.8014495,,city_only
+tegeta motorsi,Dropper,Tbilisi,Mtatsminda/Krtsanisi,ამერიკის საელჩოსთან,41.6934591,44.8014495,,city_only
+New-Capital Georgian Dream,Dropper,Tbilisi,Mtatsminda/Krtsanisi,გორგასლის 20,41.6774928,44.8258976,,success
+Liberty Bank HQ (Chavchavadze Ave),Dropper,Tbilisi,Didube,ჭავჭავაძის 74,41.7113011,44.7545278,,success
+tbc,Dropper,Tbilisi,Chughureti/Central,აღმაშენებლის გამზირი 138ა,41.7135301,44.7940966,,success
+Status,Dropper,Tbilisi,Saburtalo,ლუბლიანას 13დ,41.7752973,44.774839,,success
+Artstudio Project,Dropper,Tbilisi,Didube,საკანდელიძის 3,41.7107595,44.7263579,,success
+Kcall,Dropper,Tbilisi,Mtatsminda/Krtsanisi,დიღმის მასივი 1 კვარტალი 1ა,41.6934591,44.8014495,,city_only
+BasisBank (Amirejibi),Dropper,Tbilisi,Didube,ამირეჯიბის 6,41.7137252,44.7696467,,success

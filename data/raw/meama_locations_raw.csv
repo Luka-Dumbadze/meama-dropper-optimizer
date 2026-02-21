@@ -1,0 +1,178 @@
+name,name_raw,address_raw,address_clean,address_for_geocoding,type,city,hours
+მეამას სივრცე • თბილისი,მეამას სივრცე • თბილისი,აღმაშენებლის გამზირი მე-16 კმ. (თბილისი მოლი),აღმაშენებლის გამზირი მე-16 კმ. (თბილისი მოლი),"აღმაშენებლის გამზირი მე-16 კმ. (თბილისი მოლი), Tbilisi, Georgia",Space,Tbilisi,სამუშაო საათები: 10:00 - 22:00
+მეამას სივრცე • თბილისი,მეამას სივრცე • თბილისი,პეტრე ქავთარაძის N1 (სითი მოლი),პეტრე ქავთარაძის N1 (სითი მოლი),"პეტრე ქავთარაძის N1 (სითი მოლი), Tbilisi, Georgia",Space,Tbilisi,სამუშაო საათები: 10:00-22:00
+მეამას სივრცე • თბილისი,მეამას სივრცე • თბილისი,ალ.თვალჭრელიძის  N2 (ისთ ფოინთი),ალ.თვალჭრელიძის  N2 (ისთ ფოინთი),"ალ.თვალჭრელიძის  N2 (ისთ ფოინთი), Tbilisi, Georgia",Space,Tbilisi,სამუშაო საათები: 10:00-22:00
+მეამა ქოლექთი • თბილისი,მეამა ქოლექთი • თბილისი,აკაკი ბელიაშვილის N1,აკაკი ბელიაშვილის N1,"აკაკი ბელიაშვილის N1, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:00 სთ_მდე
+მეამა ქოლექთი • თბილისი,მეამა ქოლექთი • თბილისი,ირაკლი აბაშიძის 21/23,ირაკლი აბაშიძის 21/23,"ირაკლი აბაშიძის 21/23, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:00 სთ_მდე
+მეამა ქოლექთი  •  თბილისი,მეამა ქოლექთი  •  თბილისი,ალ.თვარჭრელიძის N2 (ისთ ფოინთი),ალ.თვარჭრელიძის N2 (ისთ ფოინთი),"ალ.თვარჭრელიძის N2 (ისთ ფოინთი), Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:00 სთ_მდე
+მეამა ქოლექთი •  თბილისი,მეამა ქოლექთი •  თბილისი,კუს ტბა,კუს ტბა,"კუს ტბა, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 12:00-19:00 სთ_მდე
+მეამა ქოლექთი • რუსთავი,მეამა ქოლექთი • რუსთავი,მერაბ კოსტავას N14,მერაბ კოსტავას N14,"მერაბ კოსტავას N14, Rustavi, Georgia",Collect,Rustavi,ღიაა 21:00 სთ_მდე
+მეამა ქოლექთი • თბილისი,მეამა ქოლექთი • თბილისი,ანა პოლიტკოვსკაიას N1  (შენი სახლი ჯიქიაზე),ანა პოლიტკოვსკაიას N1  (შენი სახლი ჯიქიაზე),"ანა პოლიტკოვსკაიას N1  (შენი სახლი ჯიქიაზე), Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:00 სთ_მდე
+მეამა ქოლექთი • თბილისი,მეამა ქოლექთი • თბილისი,ზვიად გამსახურდიას სანაპირო N108,ზვიად გამსახურდიას სანაპირო N108,"ზვიად გამსახურდიას სანაპირო N108, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 24/7
+მეამა ქოლექთი • თავისუფალი უნივერსიტეტი,მეამა ქოლექთი • თავისუფალი უნივერსიტეტი,დავით აღმაშენებლის N240,დავით აღმაშენებლის N240,"დავით აღმაშენებლის N240, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 20:00 სთ_მდე
+მეამა ქოლექთი • თბილისი,მეამა ქოლექთი • თბილისი,ზაქარია ფალიაშვილის N36,ზაქარია ფალიაშვილის N36,"ზაქარია ფალიაშვილის N36, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:00 სთ_მდე
+მეამა ქოლექთი  • თბილისი,მეამა ქოლექთი  • თბილისი,ირაკლი აბაშიძის N 65-67,ირაკლი აბაშიძის N 65-67,"ირაკლი აბაშიძის N 65-67, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:00 სთ_მდე
+მეამა ქოლექთი • თბილისი,მეამა ქოლექთი • თბილისი,გივი კარტოზიას N8 (მ2-ის ეზოში),გივი კარტოზიას N8 (მ2-ის ეზოში),"გივი კარტოზიას N8 (მ2-ის ეზოში), Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:00 სთ_მდე
+მეამა ქოლექთ • თბილისი,მეამა ქოლექთ • თბილისი,ბახტრიონის  N1 (ბუკიას ბაღი),ბახტრიონის  N1 (ბუკიას ბაღი),"ბახტრიონის  N1 (ბუკიას ბაღი), Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:00 სთ_მდე
+მეამა ქოლექთი • ბათუმი,მეამა ქოლექთი • ბათუმი,მემედ აბაშიძის N62,მემედ აბაშიძის N62,"მემედ აბაშიძის N62, Batumi, Georgia",Collect,Batumi,ღიაა 22:00 სთ_მდე
+მეამა ქოლექთი • კლდიაშვილი,მეამა ქოლექთი • კლდიაშვილი,"თბილისი, კლდიაშვილის ქუჩა#3",კლდიაშვილის ქუჩა#3,"კლდიაშვილის ქუჩა#3, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:30 სთ_მდე
+მეამა ქოლექთი • თბილისი,მეამა ქოლექთი • თბილისი,დავით აღმაშენებლის N12,დავით აღმაშენებლის N12,"დავით აღმაშენებლის N12, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 24/7
+მეამა ქოლექთი • ჩიტაია,მეამა ქოლექთი • ჩიტაია,"თბილისი, ჩიტაიას 39 ა",ჩიტაიას 39 ა,"ჩიტაიას 39 ა, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:00 სთ_მდე
+მეამა ქოლექთი • მარჯანიშვილი,მეამა ქოლექთი • მარჯანიშვილი,"თბილისი, მარჯანიშვილის 33",მარჯანიშვილის 33,"მარჯანიშვილის 33, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:30 სთ_მდე
+მეამა ქოლექთი • მელიქიშვილი,მეამა ქოლექთი • მელიქიშვილი,"თბილისი, მელიქიშვილის 11",მელიქიშვილის 11,"მელიქიშვილის 11, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:30 სთ_მდე
+მეამა ქოლექთი • ნატახტარი,მეამა ქოლექთი • ნატახტარი,"ნატახტარი, kfc-სთან","ნატახტარი, kfc-სთან","ნატახტარი, kfc-სთან, Natakhtari, Georgia",Collect,Natakhtari,ღიაა 21:00 სთ_მდე
+მეამა ქოლექთი • თბილისი,მეამა ქოლექთი • თბილისი,ლისის ტბა,ლისის ტბა,"ლისის ტბა, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:00 სთ_მდე
+მეამა ქოლექთი • რუსთავი,მეამა ქოლექთი • რუსთავი,"რუსთავი, კოსტავას 20","რუსთავი, კოსტავას 20","რუსთავი, კოსტავას 20, Rustavi, Georgia",Collect,Rustavi,ღიაა 00:00 სთ_მდე
+მეამა ქოლექთი • ყაზბეგი,მეამა ქოლექთი • ყაზბეგი,"თბილისი, ალ.ყაზბეგის 41",ალ.ყაზბეგის 41,"ალ.ყაზბეგის 41, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 21:00 სთ_მდე
+მეამა ქოლექთი • თელავი,მეამა ქოლექთი • თელავი,"თელავი, ნადიკვარის ქუჩა 16 ა","თელავი, ნადიკვარის ქუჩა 16 ა","თელავი, ნადიკვარის ქუჩა 16 ა, Telavi, Georgia",Collect,Telavi,ღიაა 21:00 სთ_მდე
+მეამა ქოლექთი • გორი,მეამა ქოლექთი • გორი,"გორი, ამილახვარია ქ. #1","გორი, ამილახვარია ქ. #1","გორი, ამილახვარია ქ. #1, Gori, Georgia",Collect,Gori,ღიაა 21:00 სთ_მდე
+მეამა ქოლექთი • თბილისი,მეამა ქოლექთი • თბილისი,დედაენის ბაღი,დედაენის ბაღი,"დედაენის ბაღი, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 22:00 სთ_მდე
+მეამა ქოლექთი • ნაფარეული,მეამა ქოლექთი • ნაფარეული,"თბილისი, ნაფარეულის ქუჩა 4",ნაფარეულის ქუჩა 4,"ნაფარეულის ქუჩა 4, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 21:30 სთ_მდე
+მეამა ქოლექთი• ქუთაისი,მეამა ქოლექთი• ქუთაისი,"ქუთაისი, თამარ მეფის 37","ქუთაისი, თამარ მეფის 37","ქუთაისი, თამარ მეფის 37, Kutaisi, Georgia",Collect,Kutaisi,ღიაა 23:00 სთ_მდე
+მეამა ქოლექთი • ქუთაისი მოლი,მეამა ქოლექთი • ქუთაისი მოლი,"ქუთაისი, ჟ.შარტავას 2","ქუთაისი, ჟ.შარტავას 2","ქუთაისი, ჟ.შარტავას 2, Kutaisi, Georgia",Collect,Kutaisi,ღიაა 21:00 სთ_მდე
+მეამა ქოლექთი • KIU,მეამა ქოლექთი • KIU,მეამა ქოლექთი • ქუთაისი მოლი,მეამა ქოლექთი • ქუთაისი მოლი,"მეამა ქოლექთი • ქუთაისი მოლი, Kutaisi, Georgia",Collect,Kutaisi,ღიაა 18:00 სთ_მდე
+მეამა ქოლექთი • ფოთი,მეამა ქოლექთი • ფოთი,დავით აღმაშენებლის №9-ში,დავით აღმაშენებლის №9-ში,"დავით აღმაშენებლის №9-ში, Poti, Georgia",Collect,Poti,ღიაა 23:00 სთ-მდე
+მეამა ქოლექთი • ლილო,მეამა ქოლექთი • ლილო,"თბილისი, კახეთის გზატკეცილი N 271ბ",კახეთის გზატკეცილი N 271ბ,"კახეთის გზატკეცილი N 271ბ, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 21:00 სთ-მდე
+მეამა ქოლექთი • ვაზისუბანი,მეამა ქოლექთი • ვაზისუბანი,"თბილისი, ვაზისუბანი I მიკრო, II კორპუსის მიმდებარედ","ვაზისუბანი I მიკრო, II კორპუსის მიმდებარედ","ვაზისუბანი I მიკრო, II კორპუსის მიმდებარედ, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 00:00 სთ-მდე
+მეამა ქოლექთი • ჭოველიძე,მეამა ქოლექთი • ჭოველიძე,"თბილისი, თამარ ჭოველიძის 11",თამარ ჭოველიძის 11,"თამარ ჭოველიძის 11, Tbilisi, Georgia",Collect,Tbilisi,ღიაა 21:00 სთ-მდე
+მეამა ქოლექთი • მცხეთა,მეამა ქოლექთი • მცხეთა,"მცხეთა, მირიან მეფის ქუჩა","მცხეთა, მირიან მეფის ქუჩა","მცხეთა, მირიან მეფის ქუჩა, Mtskheta, Georgia",Collect,Mtskheta,ღიაა 19:00 სთ-მდე
+PSP Insurance,"PSP Insurance ""dispenser""",ქ.თბილისი აღმაშენებელის 148/3,აღმაშენებელის 148/3,"აღმაშენებელის 148/3, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+onairentertainment,onairentertainment,თბილისი გურამიშვილის გამზირი 158,გურამიშვილის გამზირი 158,"გურამიშვილის გამზირი 158, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC-Melikishvili,TBC-Melikishvili,"123 Main St, City, Country 3","123 Main St, City, Country 3","123 Main St, City, Country 3, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC-CHavchavadze,TBC-CHavchavadze,ქ.თბილისი თორნიკე ერისთავის 8,თორნიკე ერისთავის 8,"თორნიკე ერისთავის 8, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Credo Bank 2,Credo Bank 2,ქ.თბილისი თაბუკაშვილის 27,თაბუკაშვილის 27,"თაბუკაშვილის 27, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+BOG (I. Gagarini Str.),"BOG (I. Gagarini Str.) ""dispenser""",ქ.თბილისი გაგარინის 29ა,გაგარინის 29ა,"გაგარინის 29ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Credo Bank (Tabukashvili St),Credo Bank (Tabukashvili St),ქ.თბილისი თაბუკაშვილის 27,თაბუკაშვილის 27,"თაბუკაშვილის 27, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+alfa romeo,alfa romeo,"123 Main St, City, Country 3","123 Main St, City, Country 3","123 Main St, City, Country 3, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+GIPA,"GIPA ""dispenser""",ქ.თბილისი ბროსეს 2,ბროსეს 2,"ბროსეს 2, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC Bank (Politkovskaya str.),"TBC Bank (Politkovskaya str.) ""dispenser""",ქ.თბილისი პოლიტკოვსკაიას 14,პოლიტკოვსკაიას 14,"პოლიტკოვსკაიას 14, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+REDISONI,REDISONI,"თბილისი, რესპუბლიკის მოედანი 1",რესპუბლიკის მოედანი 1,"რესპუბლიკის მოედანი 1, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Brand Shop City Mall,Brand Shop City Mall,ქ.თბილისი ქავთარაძის 1,ქავთარაძის 1,"ქავთარაძის 1, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Opera,Opera,ქ.თბილისი რუსთაველის 25,რუსთაველის 25,"რუსთაველის 25, Rustavi, Georgia",Dropper,Rustavi,N/A
+Reiman-1,"Reiman-1 ""dispenser""",ქ.თბილისი სანდრო ეულის 7,სანდრო ეულის 7,"სანდრო ეულის 7, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Supreme Court of Georgia,Supreme Court of Georgia,ქ.თბილისი ზუბალაშვილების 32,ზუბალაშვილების 32,"ზუბალაშვილების 32, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Municipal Fund of Georgia,"Municipal Fund of Georgia ""dispenser""",ქ.თბილისი აღმაშენებლის 150,აღმაშენებლის 150,"აღმაშენებლის 150, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+OPPA ( Kazbegi Ave),"OPPA ( Kazbegi Ave) ""dispenser""",ქ.თბილისი ყაზბეგის 15,ყაზბეგის 15,"ყაზბეგის 15, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+GEORGIAN PARLIAMENT,GEORGIAN PARLIAMENT dispenser,ქ.თბილისი რუსთაველის 8,რუსთაველის 8,"რუსთაველის 8, Rustavi, Georgia",Dropper,Rustavi,N/A
+Inova,"Inova ""dispenser""",ქ.თბილისი სანდრო ეულის 7,სანდრო ეულის 7,"სანდრო ეულის 7, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+tbc abashidze,tbc abashidze,აბაშიძის 21 ა,აბაშიძის 21 ა,"აბაშიძის 21 ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Social Agency,"Social Agency ""dispenser""",ქ.თბილისი ჯავახიშვილის 51,ჯავახიშვილის 51,"ჯავახიშვილის 51, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Aversi Pharma (kazbegi),"Aversi Pharma (kazbegi) ""dispenser""",ქ.თბილისი ყაზბეგის 16,ყაზბეგის 16,"ყაზბეგის 16, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Safety Academia,"Safety Academia ""dispenser""",ქ.თბილისი პოლიტკოვსკაიას 14,პოლიტკოვსკაიას 14,"პოლიტკოვსკაიას 14, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+SILK ROAD BANK,"SILK ROAD BANK ""dispenser""",ქ.თბილისი ზაარბრიუკენის მოედანი 2,ზაარბრიუკენის მოედანი 2,"ზაარბრიუკენის მოედანი 2, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC insurance,TBC insurance,"ქ. თბილისი, ალ. ყაზბეგის 28 ა",ალ. ყაზბეგის 28 ა,"ალ. ყაზბეგის 28 ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC Bank 3 (Ateni St.),"TBC Bank 3 (Ateni St.) ""dispenser""",ქ.თბილისი ატენის 2,ატენის 2,"ატენის 2, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+tegeta toiota,tegeta toiota,ქ.თბილისი უნივერსიტეტის ქუჩა 6,უნივერსიტეტის ქუჩა 6,"უნივერსიტეტის ქუჩა 6, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+bog-11,bog-11,გაზაფხულის ქუჩა,გაზაფხულის ქუჩა,"გაზაფხულის ქუჩა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBILISI-ENERGY,"TBILISI-ENERGY ""dispenser""",ქ.თბილისი მიცკევიჩის 18ა,მიცკევიჩის 18ა,"მიცკევიჩის 18ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+tbc agmashenebeli 2,tbc agmashenebeli 2,ქ.თბილისი აღმაშენებლის გამზ 61,აღმაშენებლის გამზ 61,"აღმაშენებლის გამზ 61, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Tbc marjanishvili,Tbc marjanishvili,ქ.თბილისი მარჯანიშვილის 16,მარჯანიშვილის 16,"მარჯანიშვილის 16, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Unison,"Unison ""dispenser""",ქ.თბილისი გამრეკელის 19,გამრეკელის 19,"გამრეკელის 19, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Tbc leasing (maserati),Tbc leasing (maserati),"ქ. თბილისი, დ. აღმაშენებელის ხეივანი 0131",დ. აღმაშენებელის ხეივანი 0131,"დ. აღმაშენებელის ხეივანი 0131, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+btu,btu,ჭავჭავაძის 82,ჭავჭავაძის 82,"ჭავჭავაძის 82, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Aversi-Rational,"Aversi-Rational ""dispenser""",ქ.თბილისი ჭირნახულის ქუჩა 14,ჭირნახულის ქუჩა 14,"ჭირნახულის ქუჩა 14, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+United Global Technology,"United Global Technology ""dispenser""",ქ.თბილისი ჭავჭავაძის 17ა,ჭავჭავაძის 17ა,"ჭავჭავაძის 17ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+MTA,MTA,ქ.თბილისი კოსტავას 70,კოსტავას 70,"კოსტავას 70, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+York,York,ქ.თბილისი ალექსიძის 12,ალექსიძის 12,"ალექსიძის 12, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Jerarsi Clinic,"Jerarsi Clinic""dispenser""",ქ.თბილისი მუხიანის 2ა,მუხიანის 2ა,"მუხიანის 2ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+jordanias klinika,jordanias klinika,ქ.თბილისი ერმილე ბედიას 33,ერმილე ბედიას 33,"ერმილე ბედიას 33, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Geo-Railway,"Geo-Railway ""dispenser""",ქ.თბილისი თამარ მეფის 15,თამარ მეფის 15,"თამარ მეფის 15, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Imedi TV (Lubliana St),"Imedi TV (Lubliana St) ""dispenser""",ქ.თბილისი ლუბლიანას 5 (7 პავილიონი),ლუბლიანას 5 (7 პავილიონი),"ლუბლიანას 5 (7 პავილიონი), Tbilisi, Georgia",Dropper,Tbilisi,N/A
+GD-M,"GD-M ""dispenser""",ქ.თბილისი მდივანის 3ა,მდივანის 3ა,"მდივანის 3ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Georgian-Dutch Hospital,"Georgian-Dutch Hospital ""dispnser""",ქ.თბილისი გობრონიძის 27,გობრონიძის 27,"გობრონიძის 27, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Terabank,"Terabank ""dispenser""","ქ.თბილისი, წამებულის 3",წამებულის 3,"წამებულის 3, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+SAMSHENEBLO KOMPANIA-JEARSI,SAMSHENEBLO KOMPANIA-JEARSI,"ქ.თბილისი,ფეიქრების 14ბ",ფეიქრების 14ბ,"ფეიქრების 14ბ, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+New Vision University Hospital,"New Vision University Hospital ""dispenser""",ქ.თბილისი ბოხუას 9,ბოხუას 9,"ბოხუას 9, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Meama East Point,Meama East Point,ქ.თბილისი ისთ ფოინთის სივრცე,ისთ ფოინთის სივრცე,"ისთ ფოინთის სივრცე, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Georgian National Bank,"Georgian National Bank ""dispenser""",ქ.თბილისი გივი ამილახვრის 2,გივი ამილახვრის 2,"გივი ამილახვრის 2, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+National Bank of Georgia (gulua),"National Bank of Georgia (gulua) ""dispenser""","ქ.თბილისი, ვაზიანი",ვაზიანი,"ვაზიანი, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC-Railway station,TBC-Railway station,ქ.თბილისი ცენტრალური რკინიგზის სადგური,ცენტრალური რკინიგზის სადგური,"ცენტრალური რკინიგზის სადგური, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC mini gldani,TBC mini gldani,ქ.თბილისი ალექსანდრე გობრონიძის 1/6,ალექსანდრე გობრონიძის 1/6,"ალექსანდრე გობრონიძის 1/6, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Basisbank,"Basisbank ""dispenser""",ქ.თბილისი ქეთევან დედოფლის 1,ქეთევან დედოფლის 1,"ქეთევან დედოფლის 1, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Prosecutor General ( 1 sartuli),"Prosecutor General ( 1 sartuli) ""dispenser""",ქ.თბილისი გორგასლის 24,გორგასლის 24,"გორგასლის 24, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Imedi TV 2,Imedi TV 2,ქ.თბილისი ლიბლიანის 2 (4 პავილიონი),ლიბლიანის 2 (4 პავილიონი),"ლიბლიანის 2 (4 პავილიონი), Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Vake Plaza,"Vake Plaza ""dispenser""",ქ.თბილისი ილია ჭავჭავაძის 72ა,ილია ჭავჭავაძის 72ა,"ილია ჭავჭავაძის 72ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+my.gov.ge,"my.gov.ge ""dispenser""",ქ.თბილისი გორგასლის 22,გორგასლის 22,"გორგასლის 22, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Brand Shop Tbilisi Mall,Brand Shop Tbilisi Mall,ქ.თბილისი აღმაშენებლის ხეივანი მე-16 კმ.,აღმაშენებლის ხეივანი მე-16 კმ.,"აღმაშენებლის ხეივანი მე-16 კმ., Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Agricultural University of Georgia,"Agricultural University of Georgia ""dispenser""",ქ.თბილისი აღმაშენებლის ხეივანი 240,აღმაშენებლის ხეივანი 240,"აღმაშენებლის ხეივანი 240, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+lokomotivi ragby,lokomotivi ragby,ბელიაშვილის პირველი ჩიხი ბაბილოს გვერდით,ბელიაშვილის პირველი ჩიხი ბაბილოს გვერდით,"ბელიაშვილის პირველი ჩიხი ბაბილოს გვერდით, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+BOG 1 (I. Gagarini Str.),BOG 1 (I. Gagarini Str.),ქ.თბილისი გაგარინის 29ა,გაგარინის 29ა,"გაგარინის 29ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC-Gamrekeli,TBC-Gamrekeli,ქ.თბილისი გამრეკელის 2,გამრეკელის 2,"გამრეკელის 2, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+MINISTRY OF JUSTICE,"MINISTRY OF JUSTICE ""dispenser""",ქ.თბილისი გორგასლის 24ა,გორგასლის 24ა,"გორგასლის 24ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Betlive wereteli,Betlive wereteli,ქ.თბილისი წერეთლის 141ა,წერეთლის 141ა,"წერეთლის 141ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC-Wereteli,TBC-Wereteli,ქ.თბილისი წერეთლის 73ა,წერეთლის 73ა,"წერეთლის 73ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+tbc leasing 3,tbc leasing 3,ქ.თბილისი ჭავჭავაძის 76,ჭავჭავაძის 76,"ჭავჭავაძის 76, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+epizodi mini,epizodi mini,ქ.თბილისი პეკინის 41,პეკინის 41,"პეკინის 41, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+betlive mini 1,betlive mini 1,ქ.თბილისი წერეთლის ქუჩა 123,წერეთლის ქუჩა 123,"წერეთლის ქუჩა 123, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+samto kimia,samto kimia,წერეთლის გამზირი 142,წერეთლის გამზირი 142,"წერეთლის გამზირი 142, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Tbilisi Green School,"Tbilisi Green School ""dispenser""",ქ.თბილისი ხუდადოვის 1,ხუდადოვის 1,"ხუდადოვის 1, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+BOG 3 (I. Gagarini Str.),BOG 3 (I. Gagarini Str.),ქ.თბილისი გაგარინის 29ა,გაგარინის 29ა,"გაგარინის 29ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC dadiani,TBC dadiani,ცოტნე დადიანის ქუჩა 103-109,ცოტნე დადიანის ქუჩა 103-109,"ცოტნე დადიანის ქუჩა 103-109, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Prosecutor,"Prosecutor ""dispenser""",ქ.თბილისი აღმაშენებლის ხეივანი მე-12 კმ.,აღმაშენებლის ხეივანი მე-12 კმ.,"აღმაშენებლის ხეივანი მე-12 კმ., Tbilisi, Georgia",Dropper,Tbilisi,N/A
+advokatta asociacia,advokatta asociacia,თინათინ ვირსალაძის პირველი ჩიხი #1,თინათინ ვირსალაძის პირველი ჩიხი #1,"თინათინ ვირსალაძის პირველი ჩიხი #1, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+PayBox,PayBox,ქ.თბილისი ქსნის ქუჩა 36,ქსნის ქუჩა 36,"ქსნის ქუჩა 36, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Terabank 2,"Terabank 2 ""dispenser""",ქ.თბილისი ვირსალაძის 5,ვირსალაძის 5,"ვირსალაძის 5, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Caucasus Medical Centre,"Caucasus Medical Centre ""dispenser""",ქ.თბილისი ქავთარაძის 23,ქავთარაძის 23,"ქავთარაძის 23, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Tbilisi Botanical Garden,Tbilisi Botanical Garden,ქ.თბილისი ბოტანიკურის 1,ბოტანიკურის 1,"ბოტანიკურის 1, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Millennium School,"Millennium School ""dispenser""",ქ.თბილისი ფერმწერთა 109,ფერმწერთა 109,"ფერმწერთა 109, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+IT Academy Step,"IT Academy Step ""dispenser""",ქ.თბილისი ყაზბეგის 34/34ბ,ყაზბეგის 34/34ბ,"ყაზბეგის 34/34ბ, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+BOG 5 (Zhiuli Shartava St),BOG 5 (Zhiuli Shartava St),ქ.თბილისი ვირსალაძის 5,ვირსალაძის 5,"ვირსალაძის 5, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+ENERGO PRO GEORGIA,ENERGO PRO GEORGIA,ქ.თბილისი ზ.ანჯაფარიძის 19,ზ.ანჯაფარიძის 19,"ზ.ანჯაფარიძის 19, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Khmaladze Architects (Sandro Euli Str),Khmaladze Architects (Sandro Euli Str),ქ.თბილისი სანდრო ეულის 7,სანდრო ეულის 7,"სანდრო ეულის 7, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Dento club,Dento club,ქ.თბილისი ყაზბეგის 14ა,ყაზბეგის 14ა,"ყაზბეგის 14ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Bank Of Georgia - Lisi,"Bank Of Georgia - Lisi ""dispenser""",ქ.თბილისი ლისის ტბის მ/ტ.(წრიულთნ),ლისის ტბის მ/ტ.(წრიულთნ),"ლისის ტბის მ/ტ.(წრიულთნ), Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Lomisi,"Lomisi ""dispenser""",ქ.თბილისი ბიძინა კვერნაძის 10,ბიძინა კვერნაძის 10,"ბიძინა კვერნაძის 10, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Tbilisi Green School Saburtalo,"Tbilisi Green School Saburtalo ""dispenser""",ქ.თბილისი ბესარიონ ჟღენტის 37,ბესარიონ ჟღენტის 37,"ბესარიონ ჟღენტის 37, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+operation technical department of mia,operation technical department of mia,ქ.თბილისი ქავთარაძის 5ა,ქავთარაძის 5ა,"ქავთარაძის 5ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+National Probation Agency,"National Probation Agency ""dispenser""",ქ.თბილისი ყაზბეგის 42/42ა,ყაზბეგის 42/42ა,"ყაზბეგის 42/42ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC-Kazbegi,TBC-Kazbegi,ქ.თბილისი ყაზბეგის 12,ყაზბეგის 12,"ყაზბეგის 12, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+BOG 7(Gagarini 29),BOG 7(Gagarini 29),"ქ.თბილისი, გაგარინის 29",გაგარინის 29,"გაგარინის 29, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC-Vaja-fshavela,TBC-Vaja-fshavela,ქ.თბილისი ვაჟა-ფშაველას 49,ვაჟა-ფშაველას 49,"ვაჟა-ფშაველას 49, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+BOG 8,BOG 8,ქ.თბილისი ვაჟა ფშაველას 76,ვაჟა ფშაველას 76,"ვაჟა ფშაველას 76, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Reiman-2,"Reiman-2 ""dispenser""",ქ.თბილისი სანდრო ეულის 7,სანდრო ეულის 7,"სანდრო ეულის 7, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Alte University,"Alte University ""dispenser""",ქ.თბილისი უნივერსიტეტის 2,უნივერსიტეტის 2,"უნივერსიტეტის 2, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+co-working radius,co-working radius,თბილისი დიდუბე პლაზა წერეთელი,დიდუბე პლაზა წერეთელი,"დიდუბე პლაზა წერეთელი, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Sulxan saba,Sulxan saba,კ.ქუთათელაძის 3,კ.ქუთათელაძის 3,"კ.ქუთათელაძის 3, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+wkalburtis akademia,wkalburtis akademia,"თბილისი, პოლიტკოვსკაიას ქუჩა 30",პოლიტკოვსკაიას ქუჩა 30,"პოლიტკოვსკაიას ქუჩა 30, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Bravo Records,"Bravo Records ""dispenser""",ქ.თბილისი კოსტავას 68/2,კოსტავას 68/2,"კოსტავას 68/2, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+BOG Bakhtrioni,"BOG Bakhtrioni ""dispenser""",ქ.თბილისი ბახტრიონის 22,ბახტრიონის 22,"ბახტრიონის 22, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Bank of Georgia iTower,Bank of Georgia iTower,ქ.თბილისი გაგარინის 29,გაგარინის 29,"გაგარინის 29, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBILISI-ENERGY 1,"TBILISI-ENERGY 1 ""dispenser""",ქ.თბილისი მიცკევიჩის 18ა,მიცკევიჩის 18ა,"მიცკევიჩის 18ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+BOG_9,BOG_9,"ქ.თბილისი,მიხეილ ბურძგლა 56",მიხეილ ბურძგლა 56,"მიხეილ ბურძგლა 56, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Rev-Administration,"Rev-Administration ""dispenser""",ქ.თბილისი ალექსიძის 1,ალექსიძის 1,"ალექსიძის 1, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Episode Tbilisi,"Episode Tbilisi ""dispenser""","123 Main St, City, Country 5","123 Main St, City, Country 5","123 Main St, City, Country 5, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+tbc chavchavadze,tbc chavchavadze,ჭავჭავაძის 2,ჭავჭავაძის 2,"ჭავჭავაძის 2, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+bog-10,bog-10,"ქ. თბილისი, ბიძინა კვერნაძე",ბიძინა კვერნაძე,"ბიძინა კვერნაძე, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+palitra media 2,palitra media 2,"თბილისი, იოსებიძის 49",იოსებიძის 49,"იოსებიძის 49, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Revenue-Service-Airport,"Revenue-Service-Airport ""dispenser""",ქ.თბილისი აეროპორტთან (ლასარე),აეროპორტთან (ლასარე),"აეროპორტთან (ლასარე), Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC-Isani,TBC-Isani,ქ.თბილისი ქ.წამებულის 67,ქ.წამებულის 67,"ქ.წამებულის 67, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+tbc chavchavadze,tbc chavchavadze,ჭავჭავაძის 29,ჭავჭავაძის 29,"ჭავჭავაძის 29, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Prosecutor General ( 4 sartuli),"Prosecutor General ( 4 sartuli) ""dispenser""",ქ.თბილისი გორგასლის 24,გორგასლის 24,"გორგასლის 24, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC-Rustavi,TBC-Rustavi,ქ.რუსთავი მეგობრობის 14,ქ.რუსთავი მეგობრობის 14,"ქ.რუსთავი მეგობრობის 14, Rustavi, Georgia",Dropper,Rustavi,N/A
+TBC-Ortachala,TBC-Ortachala,ქ.თბილისი გორგასლის 41,გორგასლის 41,"გორგასლის 41, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+NAPR HQ1 (Gorgasali Str),"NAPR HQ1 (Gorgasali Str) ""dispenser""",ქ.თბილისი გორგასლის 22,გორგასლის 22,"გორგასლის 22, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Bokhua,"Bokhua ""dispenser""",ქ.თბილისი ჩაჩავას 1,ჩაჩავას 1,"ჩაჩავას 1, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+NAPR HQ2 (Gorgasali Str),"NAPR HQ2 (Gorgasali Str)""dispenser""",ქ.თბილისი გორგასლის 22,გორგასლის 22,"გორგასლის 22, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Pineo,"Pineo ""dispenser""",ქ.თბილისი გორგასლის 93,გორგასლის 93,"გორგასლის 93, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC-Leonidze,TBC-Leonidze,ქ.თბილისი ლეონიძის 2,ლეონიძის 2,"ლეონიძის 2, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+TBC-Mtawminda,TBC-Mtawminda,ქ.თბილისი თვისუფლების მოედანი (გუდიაშვილის 7),თვისუფლების მოედანი (გუდიაშვილის 7),"თვისუფლების მოედანი (გუდიაშვილის 7), Tbilisi, Georgia",Dropper,Tbilisi,N/A
+SkyTel,"SkyTel ""dispenser""",ქ.თბილისი გურამიშვილის 23ა,გურამიშვილის 23ა,"გურამიშვილის 23ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+National Bank of Georgia,"National Bank of Georgia ""dispenser""",ქ.თბილისი სანაპიროს 2,სანაპიროს 2,"სანაპიროს 2, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Ministry of Economy and Sustainable Development,Ministry of Economy and Sustainable Development,ქ.თბილისი სანაპიროს 2,სანაპიროს 2,"სანაპიროს 2, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Dental mitskhevichi/ HBI-Dentinmplant,Dental mitskhevichi/ HBI-Dentinmplant,ქ.თბილისი ადამ მიცკევიჩის 20,ადამ მიცკევიჩის 20,"ადამ მიცკევიჩის 20, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Palitra Media (T. Iosebidze Str.),Palitra Media (T. Iosebidze Str.) dispenser,ქ.თბილისი იოსებიძის 49,იოსებიძის 49,"იოსებიძის 49, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+CHACHAVA CLINIC,"CHACHAVA CLINIC ""dispenser""",ქ.თბილისი კოსტავას 38,კოსტავას 38,"კოსტავას 38, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Silknet (gotua),Silknet (gotua),ქ.თბილისი ჰეიდარ ალიევის სანაპირო 7,ჰეიდარ ალიევის სანაპირო 7,"ჰეიდარ ალიევის სანაპირო 7, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Betlive Varketili,Betlive Varketili,ქ.თბილისი ვარკეთილის მეტროსთან,ვარკეთილის მეტროსთან,"ვარკეთილის მეტროსთან, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+bog pushkini,bog pushkini,ქ.თბილისი ალექსანდრე პუშნიკის 3,ალექსანდრე პუშნიკის 3,"ალექსანდრე პუშნიკის 3, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+betlive gldani 3,betlive gldani 3,ქ.თბილისი ომარ ხიზანიშვილის 13,ომარ ხიზანიშვილის 13,"ომარ ხიზანიშვილის 13, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Pharagraph Bog Bank,Pharagraph Bog Bank,ქ.თბილისი თავისუფლების მოედანი 7,თავისუფლების მოედანი 7,"თავისუფლების მოედანი 7, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+LTD MARADONA,LTD MARADONA,ქ.თბილისი კონსტიტუციის 4,კონსტიტუციის 4,"კონსტიტუციის 4, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+tegeta motorsi,tegeta motorsi,"თბილისი, ამერიკის საელჩოსთან",ამერიკის საელჩოსთან,"ამერიკის საელჩოსთან, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+New-Capital Georgian Dream,"New-Capital Georgian Dream ""dispenser",ქ.თბილისი გორგასლის 20,გორგასლის 20,"გორგასლის 20, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Liberty Bank HQ (Chavchavadze Ave),Liberty Bank HQ (Chavchavadze Ave),ქ.თბილისი ჭავჭავაძის 74,ჭავჭავაძის 74,"ჭავჭავაძის 74, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+tbc,tbc,ქ.თბილისი აღმაშენებლის გამზირი 138ა,აღმაშენებლის გამზირი 138ა,"აღმაშენებლის გამზირი 138ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Status,Status,ქ.თბილისი ლუბლიანას 13დ,ლუბლიანას 13დ,"ლუბლიანას 13დ, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Artstudio Project,"Artstudio Project ""dispenser""",ქ.თბილისი საკანდელიძის 3,საკანდელიძის 3,"საკანდელიძის 3, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+Kcall,Kcall,ქ.თბილისი დიღმის მასივი 1 კვარტალი 1ა,დიღმის მასივი 1 კვარტალი 1ა,"დიღმის მასივი 1 კვარტალი 1ა, Tbilisi, Georgia",Dropper,Tbilisi,N/A
+BasisBank (Amirejibi),"BasisBank (Amirejibi) ""dispenser""",ქ.თბილისი ამირეჯიბის 6,ამირეჯიბის 6,"ამირეჯიბის 6, Tbilisi, Georgia",Dropper,Tbilisi,N/A
